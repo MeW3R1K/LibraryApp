@@ -1,0 +1,41 @@
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Log/Crash reports
+*.log
+crashlytics/
+
+# Keystore files (небезпечно зберігати в репозиторії)
+*.jks
+*.keystore
+
+# Jetpack Compose preview cache
+*.cache/
+
+# NDK
+obj/
+
+# Kotlin
+*.class
+*.jar
+*.war
+*.ear
+
+# Others
+.cxx/
+captures/
